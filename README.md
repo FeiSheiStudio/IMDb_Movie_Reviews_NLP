@@ -1,6 +1,7 @@
 # Analyzing Sentiment Model Robustness on IMDb Reviews 
 
 **Goal:**
+
 Train a sentiment classifier on IMDb movie reviews and evaluate how well it handles **sarcasm, subtle sentiment, and noisy text**, while highlighting model strengths and weaknesses.
 
 **Success Criteria:**
