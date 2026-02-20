@@ -1,0 +1,54 @@
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+.venv/
+env/
+__pycache__/
+
+# -------------------------
+# Python compiled files
+# -------------------------
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# -------------------------
+# Jupyter / IPython
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb
+
+# -------------------------
+# IDE / Editor files
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# System files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Data files (optional)
+# -------------------------
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# -------------------------
+# Logs and temp files
+# -------------------------
+*.log
+*.tmp
+*.bak
